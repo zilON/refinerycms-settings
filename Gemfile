@@ -2,6 +2,7 @@ source 'http://rubygems.org'
 
 gemspec
 
+gem 'truncate_html', '~> 0.9.2'
 gem 'refinerycms', '~> 2.0.1'
 
 group :development, :test do
